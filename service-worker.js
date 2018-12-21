@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/johnlombard/clickTheCards/precache-manifest.46bf883d6e21e3817cd682a82593f041.js"
+  "/clickTheCards/precache-manifest.89716d91053838ff7b6e39fa6ce32a20.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/johnlombard/clickTheCards/index.html", {
+workbox.routing.registerNavigationRoute("/clickTheCards/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

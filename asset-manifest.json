@@ -1,13 +1,13 @@
 {
-  "main.css": "/johnlombard/clickTheCards/static/css/main.9c266878.chunk.css",
-  "main.js": "/johnlombard/clickTheCards/static/js/main.25b2859d.chunk.js",
-  "main.js.map": "/johnlombard/clickTheCards/static/js/main.25b2859d.chunk.js.map",
-  "static/js/1.3ad5f8a6.chunk.js": "/johnlombard/clickTheCards/static/js/1.3ad5f8a6.chunk.js",
-  "static/js/1.3ad5f8a6.chunk.js.map": "/johnlombard/clickTheCards/static/js/1.3ad5f8a6.chunk.js.map",
-  "runtime~main.js": "/johnlombard/clickTheCards/static/js/runtime~main.e0d0f4b3.js",
-  "runtime~main.js.map": "/johnlombard/clickTheCards/static/js/runtime~main.e0d0f4b3.js.map",
-  "static/css/main.9c266878.chunk.css.map": "/johnlombard/clickTheCards/static/css/main.9c266878.chunk.css.map",
-  "index.html": "/johnlombard/clickTheCards/index.html",
-  "precache-manifest.46bf883d6e21e3817cd682a82593f041.js": "/johnlombard/clickTheCards/precache-manifest.46bf883d6e21e3817cd682a82593f041.js",
-  "service-worker.js": "/johnlombard/clickTheCards/service-worker.js"
+  "main.css": "/clickTheCards/static/css/main.9c266878.chunk.css",
+  "main.js": "/clickTheCards/static/js/main.25b2859d.chunk.js",
+  "main.js.map": "/clickTheCards/static/js/main.25b2859d.chunk.js.map",
+  "static/js/1.3ad5f8a6.chunk.js": "/clickTheCards/static/js/1.3ad5f8a6.chunk.js",
+  "static/js/1.3ad5f8a6.chunk.js.map": "/clickTheCards/static/js/1.3ad5f8a6.chunk.js.map",
+  "runtime~main.js": "/clickTheCards/static/js/runtime~main.732fa421.js",
+  "runtime~main.js.map": "/clickTheCards/static/js/runtime~main.732fa421.js.map",
+  "static/css/main.9c266878.chunk.css.map": "/clickTheCards/static/css/main.9c266878.chunk.css.map",
+  "index.html": "/clickTheCards/index.html",
+  "precache-manifest.89716d91053838ff7b6e39fa6ce32a20.js": "/clickTheCards/precache-manifest.89716d91053838ff7b6e39fa6ce32a20.js",
+  "service-worker.js": "/clickTheCards/service-worker.js"
 }
