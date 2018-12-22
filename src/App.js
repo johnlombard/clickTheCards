@@ -4,8 +4,6 @@ import Jumbotron from './components/Jumbotron';
 import Card from './components/Game/Card';
 import Game from './components/Game';
 import Covers from "./Covers.json";
-import { concat } from 'rxjs';
-
 
 class App extends Component {
   state = {
@@ -13,18 +11,23 @@ class App extends Component {
     CurrentScore: 0,
     HighScore: 0,
     Clicked: [],
-
+    Guess: ""
   };
   
-  handleIncrement = (props) => {
+  handleIncrement = (id) => {
     // We always use the setState method to update a component's state
 
     // If the card has not been clicked at one to the score and set the state of the image to
-    if (this.state.Clicked.includes(Covers.id) ) {
-      this.setState({ CurrentScore: this.state.CurrentScore + 1, Clicked: Clicked.concat(props)  });
+    if (this.state.Clicked.indexOf(id) === -1 ) {
+      console.log(this.state.Guess);
+      this.setState({ CurrentScore: this.state.CurrentScore + 1,  Clicked: this.state.Clicked.concat(id), Guess: "Great Book!"   });
     } else {
       // IF the card has been clicked reset the score
-      this.setState({ CurrentScore: this.state.CurrentScore + 111});
+      console.log(this.state.Guess);
+      this.setState({ CurrentScore: 0,
+        Guess: "Already Read!", 
+        Clicked: [],
+      });
     }
   };
 
@@ -39,11 +42,12 @@ class App extends Component {
       <div className="App">
         <Navbar
           // Sets the current score to the states score
+          Guess ={this.state.Guess}
           CurrentScore={this.state.CurrentScore} />
         <Jumbotron />
 
         <Game>
-          <div className="row col-12">
+          <div className="row">
 
             {/* Maps Through all of the cards to add click event and the background image */}
 

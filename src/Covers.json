@@ -58,5 +58,20 @@
       "id": 12,
       "image": "https://images.gr-assets.com/books/1348336780l/1052.jpg",
       "clicked": false
+    },
+    {
+      "id": 13,
+      "image": "https://images.gr-assets.com/books/1418767178l/22318578.jpg",
+      "clicked": false
+    },
+    {
+      "id": 14,
+      "image": "https://images.gr-assets.com/books/1496699608l/22155.jpg",
+      "clicked": false
+    },
+    {
+      "id": 15,
+      "image": "https://images.gr-assets.com/books/1442957271l/368593.jpg",
+      "clicked": false
     }
   ]
