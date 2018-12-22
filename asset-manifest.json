@@ -1,13 +1,13 @@
 {
   "main.css": "/clickTheCards/static/css/main.9c266878.chunk.css",
-  "main.js": "/clickTheCards/static/js/main.25b2859d.chunk.js",
-  "main.js.map": "/clickTheCards/static/js/main.25b2859d.chunk.js.map",
-  "static/js/1.3ad5f8a6.chunk.js": "/clickTheCards/static/js/1.3ad5f8a6.chunk.js",
-  "static/js/1.3ad5f8a6.chunk.js.map": "/clickTheCards/static/js/1.3ad5f8a6.chunk.js.map",
+  "main.js": "/clickTheCards/static/js/main.c0a2f59d.chunk.js",
+  "main.js.map": "/clickTheCards/static/js/main.c0a2f59d.chunk.js.map",
+  "static/js/1.82dafdb5.chunk.js": "/clickTheCards/static/js/1.82dafdb5.chunk.js",
+  "static/js/1.82dafdb5.chunk.js.map": "/clickTheCards/static/js/1.82dafdb5.chunk.js.map",
   "runtime~main.js": "/clickTheCards/static/js/runtime~main.732fa421.js",
   "runtime~main.js.map": "/clickTheCards/static/js/runtime~main.732fa421.js.map",
   "static/css/main.9c266878.chunk.css.map": "/clickTheCards/static/css/main.9c266878.chunk.css.map",
   "index.html": "/clickTheCards/index.html",
-  "precache-manifest.89716d91053838ff7b6e39fa6ce32a20.js": "/clickTheCards/precache-manifest.89716d91053838ff7b6e39fa6ce32a20.js",
+  "precache-manifest.2d136dd7de65488599f8b89fac1cfceb.js": "/clickTheCards/precache-manifest.2d136dd7de65488599f8b89fac1cfceb.js",
   "service-worker.js": "/clickTheCards/service-worker.js"
 }
