@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/clickTheCards/static/js/runtime~main.732fa421.js"
   },
   {
-    "revision": "c0a2f59d2a9c36e8131a",
-    "url": "/clickTheCards/static/js/main.c0a2f59d.chunk.js"
+    "revision": "02f942ab270e4225c272",
+    "url": "/clickTheCards/static/js/main.02f942ab.chunk.js"
   },
   {
     "revision": "82dafdb578ba27673946",
     "url": "/clickTheCards/static/js/1.82dafdb5.chunk.js"
   },
   {
-    "revision": "c0a2f59d2a9c36e8131a",
+    "revision": "02f942ab270e4225c272",
     "url": "/clickTheCards/static/css/main.9c266878.chunk.css"
   },
   {
-    "revision": "c1b488e6145d69b3005920f80f02bb49",
+    "revision": "6231f900c7404c424f8b29eb2cc333a5",
     "url": "/clickTheCards/index.html"
   }
 ];
