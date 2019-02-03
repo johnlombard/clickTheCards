@@ -1,3 +1,10 @@
+#React Book Reader!
+
+Click the book to "read" it, but don't read the same book twice or you'll have to restart! Try to read them all.
+
+##Technologies Used:
+JavaScript, React.js, HTML, CSS, Bootstrap
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
